@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"building...\"",
-    "now-build": "echo \"now building...\""
+    "now-build": "echo \"now building with now-build only...\""
   },
   "repository": {
     "type": "git",
